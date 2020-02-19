@@ -10,5 +10,5 @@ require (
 	github.com/grpc-ecosystem/go-grpc-middleware v1.1.0 // indirect
 	github.com/imdario/mergo v0.3.7 // indirect
 	github.com/mattn/goveralls v0.0.5 // indirect
-	github.com/onosproject/onos-test v0.0.0-20200218200104-eac74bc8920c
+	github.com/onosproject/onos-test v0.0.0-20200219184250-9767b71c3929
 )
